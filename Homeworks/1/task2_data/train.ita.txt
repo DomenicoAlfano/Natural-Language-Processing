@@ -1,0 +1,100 @@
+parlo	parl:parl o:o 
+simpatica	simpatic:simpatic a:a 
+psicologia	psico:psico logi:logi a:a 
+sociologia	socio:socio logi:logi a:a 
+democrazia	demo:demo crazi:crazi a:a 
+filosofia	filo:filo sofi:sofi a:a 
+paleoantropologia	paleo:paleo antropo:antropo logia:logia 
+caldo	cald:cald o:o 
+riconsiderazione	ri:ri consider:consider a:a zion:zion e:e 
+mangianastri	mangi:mangi a:a nastr:nastr i:i 
+quando	quando:quando 
+credito	credit:credit o:o 
+inequivocabilmente	in:in equivoc:equivoc a:a bilment:bilment e:e 
+gattino	gatt:gatt in:in o:o 
+Sardegna	Sardegna:Sardegna 
+capocantiere	cap:cap o:o cantier:cantier e:e 
+socialismo	soci:soci al:al ism:ism o:o 
+ieri	ieri:ieri 
+presentabilità	present:present a:a bilit:bilit à:à 
+castoro	castor:castor o:o 
+volentieri	volentieri:volentieri 
+sfortunatamente	s:s fortun:fortun at:at a:a mente:mente 
+cascamorto	casc:casc a:a mort:mort o:o 
+purificazione	pur:pur ific:ific a:a zion:zion e:e 
+presidenziale	presidenz:presidenz ial:ial e:e 
+incoraggiante	in:in coraggi:coraggi a:a nt:nt e:e 
+impossibile	im:im possibil:possibil e:e 
+rifacevano	ri:ri fac:fac e:e va:va no:no 
+sollevamento	solleva:solleva ment:ment o:o 
+alto	alt:alt o:o 
+scrostare	s:s crost:crost a:a re:re 
+bar	bar:bar 
+virtù	virtù:virtù 
+imprevedibile	im:im pre:pre ved:ved ibil:ibil e:e 
+impazzire	im:im pazz:pazz i:i re:re 
+tre	tre:tre 
+alfabetico	alfabet:alfabet ic:ic o:o 
+allarmismo	allarm:allarm ism:ism o:o 
+abbiamo	abbiamo:abbiamo 
+mangiato	mangi:mangi a:a t:t o:o 
+dentale	dent:dent al:al e:e 
+canguro	cangur:cangur o:o 
+cane	can:can e:e 
+città	città:città 
+benino	ben:ben ino:ino 
+melone	melon:melon e:e 
+zaino	zain:zain o:o 
+alberi	alber:alber i:i 
+intelligente	intelligent:intelligent e:e 
+leggerà	legg:legg e:e rà:rà 
+scrivo	scriv:scriv o:o 
+andai	and:and a:a i:i 
+morbidi	morbid:morbid i:i 
+credevamo	cred:cred e:e vamo:vamo 
+riconsiderazione	ri:ri consider:consider a:a zion:zion e:e 
+pizzeria	pizz:pizz eri:eri a:a 
+capisezione	cap:cap i:i sezion:sezion e:e 
+cavatappi	cav:cav a:a tapp:tapp i:i 
+irrealizzabile	ir:ir real:real izz:izz a:a bil:bil e:e 
+tradimento	tradi:tradi ment:ment o:o 
+mietitrici	miet:miet itric:itric i:i 
+confessioni	confess:confess ion:ion i:i 
+appiattimento	ap:ap piatt:piatt iment:iment o:o 
+sdentate	s:s dent:dent at:at e:e 
+mossa	moss:moss a:a 
+paurosamente	paur:paur osa:osa mente:mente 
+instancabilmente	in:in stanc:stanc abil:abil mente:mente 
+bergamasco	bergam:bergam asc:asc o:o 
+fornetto	forn:forn ett:ett o:o 
+invernale	invern:invern al:al e:e 
+sgrassatore	s:s grass:grass ator:ator e:e 
+riscaldamento	ri:ri s:s cald:cald ament:ament o:o 
+accontentato	ac:ac content:content at:at o:o 
+denocciolatrice	de:de nocciol:nocciol atric:atric e:e 
+pungeva	pung:pung ev:ev a:a 
+elastico	elastic:elastic o:o 
+prendi	prend:prend i:i 
+incontenibile	in:in conten:conten ibil:ibil e:e 
+improgrammabile	im:im programm:programm abil:abil e:e 
+vetro	vetr:vetr o:o 
+infelicità	in:in felic:felic ità:ità 
+felice	felic:felic e:e 
+malvagità	malvag:malvag ità:ità 
+svogliatamente	s:s vogli:vogli ata:ata mente:mente 
+appiattimento	ap:ap piatt:piatt iment:iment o:o 
+scommettitore	scommett:scommett itor:itor e:e 
+illegale	il:il leg:leg al:al e:e 
+lavatrice	lav:lav atric:atric e:e 
+coltellata	coltell:coltell at:at a:a 
+rimodellare	ri:ri modell:modell are:are 
+tranquillizzanti	tranquill:tranquill izz:izz ant:ant i:i 
+morbido	morbid:morbid o:o 
+bene	bene:bene 
+subito	subito:subito 
+dislivello	dis:dis livell:livell o:o 
+disonesto	dis:dis onest:onest o:o 
+romanzo	romanz:romanz o:o 
+sblocco	s:s blocc:blocc o:o 
+sleale	s:s leal:leal e:e 
+strapieno	stra:stra pien:pien o:o 

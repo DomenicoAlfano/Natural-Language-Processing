@@ -1,0 +1,25 @@
+anatroccoli	anatr:anatr occol:occol i:i 
+zia	zi:zi a:a 
+impavidità	im:im pavid:pavid ità:ità 
+marinara	marin:marin ar:ar a:a 
+facciata	facci:facci at:at a:a 
+piacevolmente	piacevol:piacevol mente:mente 
+amabilmente	amabil:amabil mente:mente 
+quaderno	quadern:quadern o:o 
+però	però:però 
+folle	foll:foll e:e 
+difficilmente	difficil:difficil ment:ment e:e 
+termodinamico	termo:termo dinamic:dinamic o:o 
+cioè	cioè:cioè 
+mente	ment:ment e:e 
+lastre	lastr:lastr e:e 
+mentre	mentre:mentre 
+postino	post:post in:in o:o 
+posta	post:post a:a 
+accumulo	ac:ac cumul:cumul o:o 
+ripieni	ri:ri pien:pien i:i 
+campani	campan:campan i:i 
+formaggi	formagg:formagg i:i 
+diversi	divers:divers i:i 
+tipico	tipic:tipic o:o 
+con	con:con

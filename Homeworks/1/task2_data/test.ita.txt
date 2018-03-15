@@ -1,0 +1,25 @@
+piccoletto	piccol:piccol ett:ett o:o 
+golosone	golos:golos on:on e:e 
+precisino	precis:precis in:in o:o 
+magrolino	magr:magr olin:olin o:o 
+pigrone	pigr:pigr on:on e:e 
+tiepiduccio	tiepid:tiepid ucci:ucci o:o 
+laureando	laure:laure and:and o:o 
+dividendo	divid:divid end:end o:o 
+parlante	parl:parl ant:ant e:e 
+stancante	stanc:stanc ant:ant e:e 
+avvilente	avvil:avvil ent:ent e:e 
+formato	form:form at:at o:o 
+educato	educ:educ at:at o:o 
+spermuto	sperm:sperm ut:ut o:o 
+stupito	stup:stup it:it o:o 
+udito	ud:ud it:it o:o 
+gentili	gentil:gentil i:i 
+fortunate	fortun:fortun at:at e:e 
+facilissimo	facil:facil issim:issim o:o 
+rosso	ross:ross o:o 
+smilitarizzazione	s:s militar:militar izz:izz a:a zion:zion e:e 
+contadino	contad:contad in:in o:o 
+espatriare	es:es patri:patri a:a re:re 
+smontare	s:s mont:mont ar:ar e:e 
+ritelefonami	ri:ri tele:tele fon:fon a:a mi:mi 
